@@ -10,7 +10,7 @@
 This is web application that leverages the news API to generate news from multiple sources.
 	
 ## Technologies
-Project is created with:
+The project was developed using:
 * Python version 3.8.7
 * Django verion 3.1.6
 * Bootstrap version 4
